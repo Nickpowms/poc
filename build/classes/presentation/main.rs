@@ -1,0 +1,10 @@
+presentation.Paneel$lasagnaHandler
+presentation.Paneel
+presentation.Paneel$colaMinHandler
+presentation.Paneel$colaHandler
+presentation.main
+presentation.Paneel$bevestigHandler
+presentation.Paneel$lasagnaMinHandler
+presentation.Paneel$betaalHandler
+presentation.Paneel$resetHandler
+presentation.Paneel$opnieuwHandler
